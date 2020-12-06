@@ -1,7 +1,7 @@
 # Ball-on-Plate
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
-  The 2 DOF Ball Balancer or Project 2 is a system that will recognize the ball's motion on the plate and adjust its orientation to ensure that the ball is in control. MATLAB/Simulink will use a PD based control with multiple loops to control the system. The system is a vision based control experiment that will communicate the balls position and two rotary servo motors will act on this to ensure that the ball will not fall off the plate. 
+  The 2 DOF Ball Balancer or Project 2 is a system that will recognize the ball's motion on the plate and adjust its orientation to ensure that the ball is in control. MATLAB/Simulink and Coppelia Sim will use a PD based control with multiple loops to control the system. The system is a vision based control experiment that will communicate the balls position and two rotary servo motors will act on this to ensure that the ball will not fall off the plate. 
 ## 2. Modeling
 ### 2.1 Background
 ### 2.2
