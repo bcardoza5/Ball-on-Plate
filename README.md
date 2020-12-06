@@ -19,6 +19,7 @@ The 2 DOF Ball Balancer or Project 2 is a system that will recognize the ball's 
   <img src="Images/ball.PNG">
   Figure 1. One Dimensional View of the Free Body Diagram
   </p>
+  
 ### 2.2
 ### 2.3
 ## 3. Sensor Calibration
