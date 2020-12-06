@@ -8,10 +8,10 @@ The 2 DOF Ball Balancer or Project 2 is a system that will recognize the ball's 
 3. Simulate the MATLAB/Simulink control in CoppeliaSim to prove our PD control works 
 4. Build a web page on GitHub that explains how the system works
 ### 1.2 Equipment
--2 DOF Ball Balancer made by Quanser
--MATLAB/Simulink
--CoppeliaSim
--GitHub
+- 2 DOF Ball Balancer made by Quanser
+- MATLAB/Simulink
+- CoppeliaSim
+- GitHub
 
 ## 2. Modeling
 ### 2.1 Background
